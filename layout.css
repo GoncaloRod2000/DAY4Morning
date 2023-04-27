@@ -12,6 +12,7 @@ header {
     text-align: center;
     margin: 0 auto;
     padding: 1rem;
+    
 }
 
 nav {
@@ -20,6 +21,7 @@ nav {
     justify-content: space-around;
     padding-top: 2rem;
     padding-bottom: 1rem;
+    
 }
 
 h2 {
